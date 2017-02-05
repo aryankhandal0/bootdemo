@@ -1,0 +1,33 @@
+.na{
+
+    background: deepskyblue;
+    position: fixed;
+    width:100%;
+    z-index:7;
+}
+.a1{
+    height:300px;
+    background: lightblue;
+}
+.a2{
+    height:300px;
+    background:lightblue;
+}
+.a3{
+    height:300px;
+    background:lightblue;
+}
+.between{
+background:lightcyan;
+    height:410px;
+}
+.img-circle{
+    
+    border-radius: 50%;
+}
+.k{
+    margin-left: 15%;
+    margin-top:90px;
+    z-index: 5;
+    height: 300px;
+}
